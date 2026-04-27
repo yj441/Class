@@ -1,2 +1,2 @@
 # Class
-This is for my Information Management Final Project
+This is for my Information Management Final Project portfolio
